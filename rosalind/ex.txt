@@ -1,0 +1,13 @@
+INI 1 example
+
+import this -> Zen of Python
+
+
+
+INI 2 example
+
+given: 2 positive inteers a and b, each less than 1000
+return: the integer corresponding to the square of the hypothenuse of the right triangle whose legs have lengths a and b
+
+INI 3: strings + lists
+
